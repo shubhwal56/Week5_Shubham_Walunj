@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Shubham@123",
+    "database": "shift_tracking",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Shubham@123",
+    "database": "shift_tracking_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Shubham@123",
+    "database": "shift_tracking_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
